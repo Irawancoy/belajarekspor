@@ -1,4 +1,3 @@
-![alt text](https://github.com/Irawancoy/belajarekspor/blob/main/gambar/beranda.png?raw=true)
 
 ###################
 What is CodeIgniter
