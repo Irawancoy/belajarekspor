@@ -1,0 +1,27 @@
+{
+  "name": "embed-video",
+  "description": "Easy to insert youtube videos on your page",
+  "main": "jquery.embedVideo.min.js",
+  "keywords": [
+    "video",
+    "youtube",
+    "jquery",
+    "embed"
+  ],
+  "authors": [
+    "Sergey Makhlenko <https://t.me/SergeyMakhlenko>"
+  ],
+  "license": "MIT",
+  "homepage": "https://mahlenko.github.io/embedVideo/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower.json",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=2.2.4"
+  }
+}
